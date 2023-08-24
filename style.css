@@ -76,6 +76,7 @@ body {
 }
 
 .search-select {
+  width:60px;
   background-color: #e6e6e6;
   padding: 1rem 1rem;
   border: none;
